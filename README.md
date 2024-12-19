@@ -47,7 +47,7 @@ Para ejecutar el proyecto, sigue estos pasos:
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd ahorcado-java
+    cd practicaAhorcado
     ```
 
 3. Compila el código:
@@ -57,7 +57,7 @@ Para ejecutar el proyecto, sigue estos pasos:
 
 4. Ejecuta el juego:
     ```bash
-    java Ahorcado
+    java PracticAhorcado
     ```
 
 ---
