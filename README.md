@@ -10,7 +10,6 @@
 
 - 🏆 **Modos de Juego:** Modo clásico para un solo jugador y modo competitivo para dos jugadores.
 - 💻 **Interfaz en Consola:** El juego se juega en consola con opciones claras para elegir el modo de juego.
-- 🧑‍💻 **POO:** Utiliza clases y objetos para representar las entidades del juego como palabras, letras y el estado del jugador.
 - 🎯 **Reglas Clásicas:** 6 intentos para adivinar la palabra antes de perder.
 
 ---
